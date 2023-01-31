@@ -5,8 +5,7 @@
 
 Xenz Multi Brute Force Version 4.0.4
 --------|
-![](https://github.com/Xenz404/XMBF/blob/main/Screenshot_20221110-120527.jpg)
-![](https://github.com/Xenz404/XMBF/blob/main/Screenshot_20221105-212450.jpg)
+![](https://github.com/Xenz404/obfuscate/blob/main/ss.jpg)
 
 
 #### ★ Social Accounts ★
